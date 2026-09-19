@@ -3,14 +3,14 @@
 # 🛡️ Case #01: High-Throughput Traffic Routing & Anti-Scraping Gateway
 ### Шлюз выборочной маршрутизации трафика и защиты от парсинга для WordPress / WooCommerce
 
-[![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![WordPress](https://img.shields.io/badge/WordPress-Core%20Hooks-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
-[![Nginx](https://img.shields.io/badge/Nginx-Edge%20Emulation-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![Status: Production](https://img.shields.io/badge/Production-Live-success?style=for-the-badge)]()
-
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=90&section=header" width="100%"/>
+[![PHP Version](https://img.shields.io/badge/PHP-8.0%2B-161b22?style=for-the-badge&logo=php&logoColor=white&labelColor=0d1117&color=21262d)](https://www.php.net/)
+[![WordPress](https://img.shields.io/badge/WordPress-Core%20Hooks-161b22?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d1117&color=21262d)](https://wordpress.org/)
+[![Nginx](https://img.shields.io/badge/Nginx-Edge%20Emulation-161b22?style=for-the-badge&logo=nginx&logoColor=white&labelColor=0d1117&color=21262d)](https://nginx.org/)
+[![Status: Production](https://img.shields.io/badge/Status-Live%20Production-161b22?style=for-the-badge&labelColor=0d1117&color=238636)]()
+
+<br/>
 
 </div>
 

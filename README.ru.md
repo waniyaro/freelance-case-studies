@@ -2,26 +2,19 @@
 
 <img src="banner_cloud.gif" alt="Production Case Studies" width="100%" />
 
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=High-Performance+Backend+Architectures;Traffic+Filtering+%26+Edge+Emulation;Zero-Overhead+WordPress+%26+WooCommerce+Hooks;SEO-Preserving+Bot+Whitelisting+Engines" alt="Typing Header" />
-</p>
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-3b82f6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Status: Production](https://img.shields.io/badge/Status-В_продакшене-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)]()
-
 <br/><br/>
 
-<div align="center">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/Switch_to_English-🇬🇧_EN-6366f1?style=for-the-badge" alt="English Version" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=e6edf3&center=true&vCenter=true&width=700&lines=High-Performance+Backend+Architectures;Traffic+Filtering+%26+Edge+Emulation;Zero-Overhead+WordPress+%26+WooCommerce+Hooks;SEO-Preserving+Bot+Whitelisting+Engines" alt="Typing Header" />
+</p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=100&section=header" width="100%"/>
+[![License: MIT](https://img.shields.io/badge/License-MIT-161b22?style=for-the-badge&labelColor=0d1117&color=21262d)](LICENSE)
+[![Status: Production](https://img.shields.io/badge/Status-В_продакшене-161b22?style=for-the-badge&labelColor=0d1117&color=238636)]()
+[![Language](https://img.shields.io/badge/Язык-🇬🇧%20English%20Version-161b22?style=for-the-badge&labelColor=0d1117&color=30363d)](README.md)
+
+<br/>
 
 </div>
 
@@ -81,10 +74,7 @@
 ### 📬 Связаться и заказать разработку
 Нужна разработка кастомных плагинов, оптимизация скорости, защита или автоматизация?
 
-[![GitHub](https://img.shields.io/badge/GitHub-Профиль-181717?style=for-the-badge&logo=github)](https://github.com/waniyaro)
-[![Freelance Status](https://img.shields.io/badge/Фриланс-Открыт_к_заказам-22c55e?style=for-the-badge)]()
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=70&section=footer" width="100%"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Профиль-161b22?style=for-the-badge&logo=github&labelColor=0d1117&color=21262d)](https://github.com/waniyaro)
+[![Freelance Status](https://img.shields.io/badge/Фриланс-Открыт_к_заказам-161b22?style=for-the-badge&labelColor=0d1117&color=238636)]()
 
 </div>
