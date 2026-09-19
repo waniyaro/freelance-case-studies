@@ -1,15 +1,17 @@
 <div align="center">
 
-# ⚡ Реальные коммерческие кейсы и инженерные решения
+<img src="banner_cloud.gif" alt="Production Case Studies" width="100%" />
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=High-Performance+Backend+Architectures;Traffic+Filtering+%26+Edge+Emulation;Zero-Overhead+WordPress+%26+WooCommerce+Hooks;SEO-Preserving+Bot+Whitelisting+Engines" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=700&lines=High-Performance+Backend+Architectures;Traffic+Filtering+%26+Edge+Emulation;Zero-Overhead+WordPress+%26+WooCommerce+Hooks;SEO-Preserving+Bot+Whitelisting+Engines" alt="Typing Header" />
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-3b82f6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![Status: Production](https://img.shields.io/badge/Status-В_продакшене-10b981?style=for-the-badge&logo=checkmarx&logoColor=white)]()
 
-<br/>
+<br/><br/>
 
 <div align="center">
   <a href="README.md">
@@ -19,7 +21,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=110&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=100&section=header" width="100%"/>
 
 </div>
 
